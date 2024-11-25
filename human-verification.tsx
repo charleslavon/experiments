@@ -10,7 +10,7 @@ export default function HumanVerification() {
         <CardHeader className="text-center">
           <div className="mx-auto w-32 h-32 relative mb-4">
             <Image
-              src="/placeholder.svg?height=128&width=128"
+              src="robot.svg"
               alt="Robot"
               layout="fill"
               objectFit="contain"

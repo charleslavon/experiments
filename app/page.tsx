@@ -1,4 +1,4 @@
-import { HumanVerification } from "@/components/human-verification"
+import HumanVerification from "../human-verification"
 
 export default function Page() {
   return <HumanVerification />
